@@ -30,3 +30,5 @@ Rotate around:
 - x axes with `q` and `e` keys
 - y axes with `a` and `d` keys
 - z axes with `z` and `c` keys
+
+![](screenshot.png)
