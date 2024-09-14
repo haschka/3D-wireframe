@@ -1,6 +1,7 @@
 # 3D-wireframe
 A tool to render and view basic 3D wireframes.
-(c) Thomas Haschka 2024 - MIT license available. 
+
+(c) Thomas Haschka 2024 - GPL-3 license. 
 
 ### Installation:
 You need sdl2 libraries and headers installed, as well as a c compilier.
